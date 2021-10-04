@@ -1,6 +1,6 @@
 # High Altitude Balloons Guide
 
-A new Flutter project.
+Your Guide for starting your HAB
 
 ## Getting Started
 
